@@ -1,0 +1,19 @@
+{
+    "products": [
+      {
+        "name": "Hair Oil",
+        "price": 220,
+        "original_price": 250,
+        "image": "assets/products/oil/main/p2.jpg",
+        "description": "Nourishes your hair for a healthy shine."
+      },
+      {
+        "name": "Shampoo",
+        "price": 270,
+        "original_price": 300,
+        "image": "https://static.toiimg.com/thumb/msid-111138037,imgsize-1486433,width-400,resizemode-4/111138037.jpg",
+        "description": "Cleanses and strengthens hair."
+      }
+    ]
+  }
+  

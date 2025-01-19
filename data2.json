@@ -1,0 +1,74 @@
+{
+    "header":"shop name, for apointmet cta",
+    "body":[
+        {
+            "procucts":[
+                {
+                    "productName": "",
+                    "imgUrl":"",
+                    "description":"",
+                    "howToUse":"",
+                    "reviews":""
+                },
+                {
+                    "productName": "",
+                    "imgUrl":"",
+                    "description":"",
+                    "howToUse":"",
+                    "reviews":""
+                },
+                {
+                    "productName": "",
+                    "imgUrl":"",
+                    "description":"",
+                    "howToUse":"",
+                    "reviews":""
+                },
+                {
+                    "productName": "",
+                    "imgUrl":"",
+                    "description":"",
+                    "howToUse":"",
+                    "reviews":""
+                }
+            ],
+            "hairStyleDesign":[
+                {
+                    "baby":[
+                        {"url":"https://content.jdmagicbox.com/comp/def_content/salons/default-salons-9.jpg"},
+                        {"url":"https://content.jdmagicbox.com/v2/comp/madurai/f5/0452px452.x452.230610005136.b2f5/catalogue/malli-beauty-parlour-vilangudi-madurai-salons-cif7hixy25.jpg"},
+                        {
+                            "url":"https://content.jdmagicbox.com/v2/comp/madurai/f5/0452px452.x452.230610005136.b2f5/catalogue/malli-beauty-parlour-vilangudi-madurai-salons-cif7hixy25.jpg"
+                        }
+                    ],
+                    "adult":[
+                        {
+                            "url":""
+                        },
+                        {
+                            "url":""
+                        },
+                        {
+                            "url":""
+                        }
+                    ],
+                    "groom":[
+                        {
+                            "url":""
+                        },
+                        {
+                            "url":""
+                        },
+                        {
+                            "url":""
+                        },
+                        {
+                            "url":""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "footer": "greetings and contact info (name, address, ph, plastore revie, map)"
+}
